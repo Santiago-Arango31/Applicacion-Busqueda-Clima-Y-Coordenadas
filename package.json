@@ -1,0 +1,11 @@
+{
+  "name": "seccion6_aplicaciondelclima",
+  "version": "1.0.0",
+  "description": "Aplicacion con NodeJS para busqueda de clima y coordenadas de una ciudad como parametro de busqueda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Santiago Arango",
+  "license": "ISC"
+}
